@@ -52,7 +52,7 @@ home.html
             <h3>"Free desert with Every Meal Above $499!"</h3>
         </div>
         <footer>
-            <h6 class="bottom">YASHVANDAN K(25017523)</h6>
+            <h6 class="bottom">&copy;YASHVANDAN K(25017523)</h6>
 
         </footer>
     </body>
@@ -551,9 +551,9 @@ h2,h3,h4{
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-08 215854.png>)
-![alt text](<Screenshot 2025-10-08 215908.png>)
-![alt text](<Screenshot 2025-10-08 215921.png>)
-![alt text](<Screenshot 2025-10-08 215933.png>)
+![alt text](<Screenshot 2025-10-08 223017.png>)
+![alt text](<Screenshot 2025-10-08 223031.png>)
+![alt text](<Screenshot 2025-10-08 223048.png>)
+![alt text](<Screenshot 2025-10-08 223141.png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
