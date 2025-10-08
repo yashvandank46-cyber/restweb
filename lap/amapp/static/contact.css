@@ -1,0 +1,42 @@
+body{
+    background-image:url("back3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 20px;
+}
+
+a{
+    padding: 15px;
+    color:rgb(246, 66, 11);
+    position: relative;
+    left: 1100px;
+    top: 20px;
+    font-size: 20px;
+}
+.bottom{
+    font-size: 30px;
+    text-align: center;
+    background-color: rgba(37, 0, 0, 0.768);
+    position: relative;
+    top: 150px;
+    color: white;
+}
+.contanct-container{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(251, 246, 246);
+    height:400px;
+    width:410px;
+    display: block;
+    gap: 20px;
+    font-size: 20px;
+    position: relative;
+    left: 600px;
+    top:20px;
+    border-radius: 10%;
+}
+h2,h3,h4{
+    font-size: 27px;
+}

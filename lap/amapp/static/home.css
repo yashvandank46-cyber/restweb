@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+body{
+    background-image:url("back.webp");
+    background-position: center;
+    background-size:cover;
+    width: 100%;
+    background-color: rgb(252, 93, 24);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(11, 11, 11);
+}
+
+a{
+    padding: 15px;
+    color:rgb(20, 195, 14);
+}
+a:hover{
+    background-color: rgb(15, 14, 14);
+    color:rgb(237, 67, 15);
+}
+.name{
+    text-align: center;
+    position: relative;
+    left: 500px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(10, 9, 9, 0.855);
+    font-size: 40px;
+    width: 1000px;
+    background-color: rgba(251, 246, 246, 0.94);
+}
+.offer{
+    text-align: right;
+    font-size: 40px;
+    color: rgb(218, 218, 17);
+    position: relative;
+    right: 100px;
+    top:400px;
+
+}
+.bottom{
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: 550px;
+    background-color: rgb(232, 248, 11);
+}
+
+.navbar{
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 0.8;
+}
